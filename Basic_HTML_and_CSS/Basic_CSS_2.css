@@ -3,4 +3,12 @@ p {
 	background-color: blue;
 	font-size: 14;
 	text-align: center;
+}
+
+h1 {
+	text-shadow: 2px 2px #ff0000;
+}
+
+h2 {
+	text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
 }	
