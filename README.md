@@ -6,6 +6,6 @@ This repository will be used for my HTML and CSS projects with The Tech Academy.
 ### Portfolio Website
 This is the first version of my portfolio website, which can be found [here](https://jeffstop.github.io/). This version of the webpage uses CSS for styling and includes a video background on loop, images, links, a navbar, and a contact form.
 ### Other Projects
-Most of the files found in this repository were practice for html and css. Each one is focused on a different topic to get familiar with html and css.
+Most of the files found in this repository were practice for HTML and CSS. Each one is focused on a different topic to get familiar with HTML and CSS.
 ## Tech Academy Projects
 My other projects for The Tech Academy can be found [here](https://github.com/jeffstop/Tech-Academy-Projects).
